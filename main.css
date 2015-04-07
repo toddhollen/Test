@@ -7,13 +7,14 @@ body{
 
 header{
 
-	font-size: 2em;
+	font-size: 5em;
 	color: black;
+	margin-bottom: 50px;
 
 }
 
 a{
 
-	font-size: 1em;
+	font-size: 3em;
 	color: blue;
 }
