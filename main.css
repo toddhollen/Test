@@ -1,13 +1,19 @@
 body{
 
-	background: blue;
+	text-align: center;
+	width: 960px;
+	margin: 50px auto;
 }
 
 header{
-	color: white;
+
+	font-size: 2em;
+	color: black;
+
 }
 
 a{
 
-	color: red;
+	font-size: 1em;
+	color: blue;
 }
